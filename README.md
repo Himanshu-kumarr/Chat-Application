@@ -21,7 +21,7 @@ This educational web application emulates modern messaging platforms by incorpor
 
 1. Fork and clone the repo to your local system
    ```git
-   git clone https://github.com/addy-1406/Chat-App.git
+   git clone https://github.com/Himanshu-kumarr/Chat-Application.git
    ```
 
 2. Go to the project root directory
